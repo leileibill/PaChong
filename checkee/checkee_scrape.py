@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 def scrape_sub_page(url, save_name, skip_exisintg=False):
     print(url)
