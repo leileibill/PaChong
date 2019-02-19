@@ -1,0 +1,109 @@
+,ID,Visa Type,Visa Entry,US Consulate,Major,Status,Check Date,Complete Date,Waiting Day(s),Details
+0,360124195909250,B1,New,GuangZhou,mechanica,Pending,2010-09-01,0000-00-00,3087,detail
+1,Acat,J1,Renewal,ShangHai,protein structure,Clear,2010-09-01,2010-09-27,26,detail
+2,shelper,F1,Renewal,ShangHai,BME,Clear,2010-09-01,2010-09-24,23,detail
+3,bianxm06,B1,New,BeiJing,Electrical Engineering,Clear,2010-09-01,2010-09-29,28,detail
+4,gogogo,H1,New,BeiJing,EE,Clear,2010-09-01,2010-10-06,35,detail
+5,effort,H1,New,BeiJing,Bio,Clear,2010-09-01,2010-10-06,35,detail
+6,yaohongyi03,J1,Renewal,BeiJing,CS & EE,Clear,2010-09-01,2010-10-06,35,detail
+7,272925198205057,J1,New,ShangHai,Toxicology,Clear,2010-09-02,2010-09-30,28,detail
+8,agstone,F1,Renewal,ChengDu,EE,Clear,2010-09-02,2010-09-28,26,detail
+9,crazybull,H1,Renewal,BeiJing,biomedical engineering,Clear,2010-09-02,2010-09-27,25,detail
+10,snowflake,J1,New,BeiJing,MSE,Clear,2010-09-02,2010-10-07,35,detail
+11,Albert,J1,New,BeiJing,Immunology,Clear,2010-09-02,2010-10-06,34,detail
+12,PETER,H1,Renewal,BeiJing,Bio,Clear,2010-09-02,2010-09-26,24,detail
+13,WF,B1,Renewal,BeiJing,Medicine,Clear,2010-09-02,2010-10-07,35,detail
+14,blackcavalier,J1,New,Others,Materials Engineering,Clear,2010-09-03,2010-09-28,25,detail
+15,hisweety,F1,Renewal,BeiJing,Stats,Pending,2010-09-03,0000-00-00,3085,detail
+16,jinjingforever,H1,Renewal,Montreal,CS,Pending,2010-09-03,0000-00-00,3085,detail
+17,weather,F1,Renewal,BeiJing,Polymer,Clear,2010-09-03,2010-10-07,34,detail
+18,ilovegoogle,J1,New,BeiJing,computer science,Clear,2010-09-03,2010-10-06,33,detail
+19,beast,F1,Renewal,BeiJing,IE,Clear,2010-09-03,2010-10-06,33,detail
+20,frogw,J1,New,GuangZhou,Structural Engineering,Clear,2010-09-07,2010-10-07,30,detail
+21,etsfather,F1,Renewal,BeiJing,material sciences,Clear,2010-09-07,2010-09-29,22,detail
+22,xf,F1,Renewal,BeiJing,Biomedical Engineering,Clear,2010-09-07,2010-10-12,35,detail
+23,checkee092010,F1,New,ShangHai,Business,Clear,2010-09-07,2010-09-24,17,detail
+24,leadingmore,H1,New,ShangHai,Geography,Clear,2010-09-07,2010-09-28,21,detail
+25,zhangtetsu,J1,New,BeiJing,Comupter Science,Clear,2010-09-07,2010-10-06,29,detail
+26,feng,B1,New,Europe,CS,Clear,2010-09-08,2010-09-25,17,detail
+27,kitty,L1,New,ShangHai,Computer,Clear,2010-09-09,2010-09-29,20,detail
+28,wind,B1,New,Others,Biology,Clear,2010-09-09,2010-10-06,27,detail
+29,xiaofeima,B1,New,BeiJing,Applied Geophysics,Clear,2010-09-09,2010-10-08,29,detail
+30,jcx,B1,New,BeiJing,EE,Clear,2010-09-09,2010-10-27,48,detail
+31,fattybelly,H1,New,ShangHai,Chem Engineering,Clear,2010-09-10,2010-09-30,20,detail
+32,jefferyhc,B1,New,BeiJing,optics,Clear,2010-09-10,2010-10-06,26,detail
+33,outspace1985,B1,New,ShangHai,Automation Industry,Clear,2010-09-10,2010-10-12,32,detail
+34,Jack,J1,Renewal,BeiJing,Biology,Clear,2010-09-10,2010-10-06,26,detail
+35,weizhi70,H1,New,BeiJing,molecular biology,Clear,2010-09-10,2010-10-06,26,detail
+36,towermancn,F1,Renewal,GuangZhou,Chemical Engineering,Clear,2010-09-10,2010-09-29,19,detail
+37,SSSTTT,J1,Renewal,BeiJing,Radiology,Clear,2010-09-10,2010-10-06,26,detail
+38,niya838,L1,New,ChengDu,N/A,Clear,2010-09-10,2010-12-09,90,detail
+39,hellobettypku,H1,New,ShangHai,geophysics,Clear,2010-09-13,2010-10-13,30,detail
+40,cam,F1,Renewal,ShenYang,BME,Clear,2010-09-13,2010-10-12,29,detail
+41,yu,J1,New,ShangHai,Meteorology,Clear,2010-09-13,2010-10-07,24,detail
+42,mytoteng,F1,Renewal,BeiJing,Math,Clear,2010-09-13,2010-10-06,23,detail
+43,mytoteng,F1,Renewal,BeiJing,Math,Clear,2010-09-13,2010-10-06,23,detail
+44,angela,J2,New,BeiJing,chemistry,Clear,2010-09-14,2010-10-06,22,detail
+45,Why L2 passed,L1,Renewal,BeiJing,EE,Clear,2010-09-14,2010-10-13,29,detail
+46,sunan126,J1,New,BeiJing,Global Environmental Chan,Clear,2010-09-15,2010-10-06,21,detail
+47,allen,J1,New,HongKong,Biology,Pending,2010-09-15,0000-00-00,3073,detail
+48,boiler,F1,Renewal,ShangHai,Industrial and Physical P,Clear,2010-09-15,2010-10-05,20,detail
+49,allen,J1,New,HongKong,Biolofy,Clear,2010-09-15,2010-09-30,15,detail
+50,doctorlv,J1,Renewal,ShangHai,medical,Clear,2010-09-15,2010-09-30,15,detail
+51,Lily,J2,New,BeiJing,biology,Clear,2010-09-15,2010-11-08,54,detail
+52,atongmu,H4,New,GuangZhou,chemistry,Clear,2010-09-16,2010-10-14,28,detail
+53,Declan,F1,Renewal,BeiJing,EE,Clear,2010-09-16,2010-10-14,28,detail
+54,jh916,H1,New,ShangHai,CS,Pending,2010-09-16,0000-00-00,3072,detail
+55,guest,H1,New,Others,N/A,Clear,2010-09-16,2010-10-08,22,detail
+56,depress,J1,New,ChengDu,Oncology,Clear,2010-09-16,2010-11-02,47,detail
+57,sagadudu,H1,New,Others,Computer Information Syst,Clear,2010-09-16,2010-11-06,51,detail
+58,yuanshuiqiao,H1,New,ShenYang,Biology,Clear,2010-09-17,2010-10-07,20,detail
+59,Elisa,F2,New,ChengDu,N/A,Reject,2010-09-17,2010-09-20,3,detail
+60,suiyecc,B1,New,BeiJing,Electronic Engineering,Pending,2010-09-17,0000-00-00,3071,detail
+61,xmfa,B1,New,BeiJing,Computer,Clear,2010-09-17,2010-10-12,25,detail
+62,davidieee,F1,Renewal,BeiJing,computer science,Clear,2010-09-17,2010-11-02,46,detail
+63,samsara6,F1,Renewal,BeiJing,ME,Clear,2010-09-20,2010-10-19,29,detail
+64,glhyue,F1,Renewal,Others,biomedical sciences,Pending,2010-09-20,0000-00-00,3068,detail
+65,glhyue,F1,Renewal,Others,biomedical sciences,Clear,2010-09-20,2010-10-07,17,detail
+66,cythia1,B1,New,BeiJing,Management,Clear,2010-09-20,2010-10-12,22,detail
+67,kico,F1,Renewal,ShangHai,CS,Clear,2010-09-20,2010-10-08,18,detail
+68,wayne329,B1,New,ChengDu,Automation,Clear,2010-09-20,2010-10-05,15,detail
+69,zb,H1,New,ShangHai,surgery,Clear,2010-09-20,2010-10-10,20,detail
+70,cc86@njit.edu,H1,New,ShangHai,Electrical Engineering,Clear,2010-09-20,2010-10-07,17,detail
+71,bjkk,J1,New,BeiJing,Information Science,Clear,2010-09-21,2010-10-14,23,detail
+72,adamast,J1,New,BeiJing,Bio,Clear,2010-09-21,2010-11-03,43,detail
+73,jennycat,H1,New,BeiJing,N/A,Clear,2010-09-21,2010-10-14,23,detail
+74,fei746,H1,New,ShangHai,EE,Clear,2010-09-21,2010-11-03,43,detail
+75,snow216,F2,New,BeiJing,Chinese Language and Lite,Clear,2010-09-21,2010-11-03,43,detail
+76,masterimran,J1,New,NewDelhi,protein crystallography,Clear,2010-09-21,2010-11-10,50,detail
+77,vboy,H1,Renewal,BeiJing,N/A,Clear,2010-09-22,2010-10-14,22,detail
+78,ABAO,J1,New,ShangHai,N/A,Clear,2010-09-23,2010-10-12,19,detail
+79,Franco,J1,New,GuangZhou,Oncology,Clear,2010-09-23,2010-10-08,15,detail
+80,rrraaaddd,J1,New,BeiJing,CS,Clear,2010-09-23,2010-10-15,22,detail
+81,0025082,B1,New,GuangZhou,BME,Pending,2010-09-24,0000-00-00,3064,detail
+82,xymacq,J1,New,ChengDu,epidemiology,Clear,2010-09-24,2010-10-13,19,detail
+83,Tao,H1,Renewal,BeiJing,EE,Clear,2010-09-24,2010-10-20,26,detail
+84,chl,J1,Renewal,GuangZhou,biology,Clear,2010-09-24,2010-10-15,21,detail
+85,indiaasan,H1,Renewal,Europe,Material,Clear,2010-09-24,2010-10-12,18,detail
+86,wangwl,J1,New,BeiJing,geophysics,Clear,2010-09-24,2010-10-14,20,detail
+87,hucytometry,J1,New,BeiJing,pathology,Clear,2010-09-24,2010-10-18,24,detail
+88,ggbb415,H1,Renewal,ShenYang,ECE,Clear,2010-09-27,2010-10-20,23,detail
+89,nonie,J1,New,ChengDu,cancer research,Clear,2010-09-27,2010-10-15,18,detail
+90,dingdang,J1,New,ShenYang,systems engineering,Clear,2010-09-27,2010-10-08,11,detail
+91,charwin,B1,New,BeiJing,EI,Clear,2010-09-27,2010-10-18,21,detail
+92,xmyyq,J1,New,GuangZhou,CE,Clear,2010-09-27,2010-10-19,22,detail
+93,elcheva,H1,Renewal,Others,Computer Science,Clear,2010-09-27,2011-01-11,106,detail
+94,houdaoren,H1,New,Others,Physics,Clear,2010-09-28,2010-10-19,21,detail
+95,watsonbuaa,J1,New,BeiJing,ECE/CS,Clear,2010-09-28,2010-11-02,35,detail
+96,wammbb,H1,Renewal,Europe,Material,Clear,2010-09-28,2010-10-15,17,"90% chance that another representative will answer my phone), until I reach a nice people.
+
+My experience is, don't waste your time with those rude/impolite ppl at all! Make a few more calls and you will know them - I can recognize their voices after a few days.
+
+As I applied in a third country, I wrote down all my experiences, hoping this can help you.
+Good luck to all of you!
+"">detail"
+97,powerpupu,H1,Renewal,BeiJing,Biostatistics,Reject,2010-09-28,2011-01-14,108,detail
+98,ll,L1,Renewal,BeiJing,N/A,Clear,2010-09-29,2010-10-19,20,detail
+99,skyzhang,J1,New,ShangHai,Environmental Engineering,Clear,2010-09-29,2010-10-19,20,detail
+100,pennydarcy,F1,Renewal,BeiJing,Chem,Clear,2010-09-29,2010-10-19,20,detail
+101,123456,J1,Renewal,BeiJing,neuroscience,Clear,2010-09-29,2010-11-04,36,detail

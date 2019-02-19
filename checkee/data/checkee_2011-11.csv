@@ -1,0 +1,42 @@
+,ID,Visa Type,Visa Entry,US Consulate,Major,Status,Check Date,Complete Date,Waiting Day(s),Details
+0,fashioncorn,H1,Renewal,BeiJing,EE,Clear,2011-11-01,2011-11-21,20,detail
+1,amorlzu,J1,New,BeiJing,Computer Science,Clear,2011-11-01,2011-12-01,30,detail
+2,WEX,J1,New,BeiJing,chemistry,Clear,2011-11-02,2012-01-11,70,detail
+3,usaconf,B1,New,BeiJing,CS,Clear,2011-11-03,2011-11-30,27,detail
+4,Iamchecked,H1,Renewal,GuangZhou,Chemistry,Clear,2011-11-03,2011-11-24,21,detail
+5,guest,F1,New,BeiJing,EE,Pending,2011-11-04,0000-00-00,2658,detail
+6,gjj314,J1,New,ShenYang,Signal processing,Reject,2011-11-04,2012-04-25,173,detail
+7,bgcp,H1,New,BeiJing,EE,Clear,2011-11-07,2011-11-22,15,detail
+8,dreamwords,B1,New,BeiJing,CS,Clear,2011-11-07,2011-11-23,16,detail
+9,Sherimie,H1,Renewal,BeiJing,Chemistry,Clear,2011-11-08,2011-11-22,14,detail
+10,adi187,H1,New,Chennai,Biotech,Clear,2011-11-08,2011-12-12,34,detail
+11,meimei_a_go_go,H1,Renewal,BeiJing,Law,Pending,2011-11-09,0000-00-00,2653,detail
+12,someone,H1,Renewal,ShangHai,EE,Clear,2011-11-13,2011-12-01,18,detail
+13,9085,H1,Renewal,Ottawa,CS,Clear,2011-11-14,2012-05-01,169,detail
+14,worm1104,J1,Renewal,BeiJing,Bioinformatics,Clear,2011-11-14,2011-11-28,14,detail
+15,G47642823,F1,Renewal,BeiJing,AE,Clear,2011-11-14,2011-12-21,37,detail
+16,bb,J1,New,BeiJing,EE,Pending,2011-11-15,0000-00-00,2647,detail
+17,xuyang,F1,New,ShenYang,N/A,Pending,2011-11-15,0000-00-00,2647,detail
+18,bb,J1,New,BeiJing,EE,Clear,2011-11-15,2011-12-27,42,detail
+19,Goodluck,H1,Renewal,BeiJing,Chemical Engineering,Clear,2011-11-16,2011-11-30,14,detail
+20,MrPPPoe,F1,New,ShangHai,Computer Science,Clear,2011-11-17,2011-11-30,13,detail
+21,wxiaoxiao,B1,New,BeiJing,traffic engineering,Clear,2011-11-17,2011-12-05,18,detail
+22,swelding,F1,New,BeiJing,ME,Clear,2011-11-17,2011-12-31,44,detail
+23,lisi2010,H1,New,ShangHai,Microelectronics,Clear,2011-11-18,2011-12-16,28,detail
+24,guest,F1,Renewal,BeiJing,Biology,Pending,2011-11-21,0000-00-00,2641,detail
+25,0936478293,F1,New,BeiJing,ME,Clear,2011-11-23,2011-12-16,23,detail
+26,plarq,F1,New,GuangZhou,Physics,Clear,2011-11-23,2011-12-12,19,detail
+27,violin020,F1,New,GuangZhou,Electrical Engineering,Clear,2011-11-25,2011-12-15,20,detail
+28,Jason,F1,New,BeiJing,MS&E,Clear,2011-11-25,2011-12-12,17,detail
+29,watering,H1,Renewal,BeiJing,ME,Clear,2011-11-25,2011-12-16,21,detail
+30,watering,H1,Renewal,BeiJing,ME,Clear,2011-11-25,2011-12-12,17,detail
+31,goodwzz,J1,New,BeiJing,Signal Processing,Clear,2011-11-28,2011-12-14,16,detail
+32,teresadelove,B1,New,BeiJing,CS,Pending,2011-11-28,0000-00-00,2634,detail
+33,6194,H1,Renewal,BeiJing,Biological Engineering,Clear,2011-11-28,2011-12-13,15,detail
+34,azurblau82,H1,New,BeiJing,Biomedical Sciences,Clear,2011-11-28,2012-01-25,58,detail
+35,spin,H1,New,Others,Geophysics,Clear,2011-11-29,2011-12-12,13,detail
+36,penlul,H1,Renewal,Ottawa,IS,Pending,2011-11-29,0000-00-00,2633,detail
+37,Guest,F1,Renewal,BeiJing,ECE,Clear,2011-11-29,2011-12-27,28,detail
+38,tzanne,F1,New,BeiJing,Geoinformatics,Clear,2011-11-30,2011-12-16,16,detail
+39,xiaoyi,F1,Renewal,Tijuana,CE,Clear,2011-11-30,2011-12-21,21,detail
+40,ssur,J1,New,BeiJing,EE,Clear,2011-11-30,2011-12-30,30,detail

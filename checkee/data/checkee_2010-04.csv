@@ -1,0 +1,85 @@
+,ID,Visa Type,Visa Entry,US Consulate,Major,Status,Check Date,Complete Date,Waiting Day(s),Details
+0,ZZ,B2,Renewal,ShangHai,N/A,Clear,2010-04-01,2010-04-20,19,detail
+1,thisone,J1,New,BeiJing,AE,Clear,2010-04-01,2010-07-29,119,detail
+2,xing,B1,New,Others,computer science,Clear,2010-04-02,2010-04-08,6,detail
+3,buptdove,F1,New,BeiJing,EE,Clear,2010-04-02,2010-04-14,12,detail
+4,andre_xing,F1,Renewal,ShangHai,ECE,Clear,2010-04-02,2010-04-22,20,detail
+5,guaiguai,B1,New,BeiJing,EE,Clear,2010-04-02,2010-04-20,18,detail
+6,singkid,B1,New,Others,Computer Science,Pending,2010-04-06,0000-00-00,3235,detail
+7,ynew,H1,Renewal,ShangHai,ECE,Clear,2010-04-06,2010-04-19,13,detail
+8,230107,B2,New,Vancouver,CS,Clear,2010-04-06,2010-04-23,17,detail
+9,xin,F1,Renewal,Ottawa,Environmental Engineering,Clear,2010-04-06,2010-04-28,22,detail
+10,greentie,J1,New,BeiJing,Microbiology,Clear,2010-04-06,2010-04-20,14,detail
+11,maruko,F1,Renewal,Europe,Chemistry,Clear,2010-04-06,2010-04-26,20,detail
+12,lyw8566,F1,New,BeiJing,Agricultural and Biologic,Clear,2010-04-06,2010-04-27,21,detail
+13,lorck,J1,New,BeiJing,N/A,Pending,2010-04-06,0000-00-00,3235,detail
+14,guang,B1,Renewal,BeiJing,EE,Clear,2010-04-07,2010-04-27,20,detail
+15,xww,J1,New,ShangHai,CS,Clear,2010-04-07,2010-04-22,15,detail
+16,yybsunny,J1,New,ShangHai,CM,Clear,2010-04-08,2010-05-11,33,detail
+17,yrs207,F1,New,BeiJing,EE,Clear,2010-04-08,2010-04-26,18,detail
+18,mmmwwwppp,J1,New,ChengDu,ME,Reject,2010-04-08,2010-12-08,244,detail
+19,orangeduor,F1,Renewal,Others,EE,Clear,2010-04-08,2010-09-20,165,detail
+20,rxyao,J1,New,BeiJing,mathematics and physics,Clear,2010-04-09,2010-04-26,17,detail
+21,ifsomeday,J1,New,BeiJing,Biology,Clear,2010-04-09,2010-04-27,18,detail
+22,zz_visa,B1,New,ShangHai,Computer Science,Clear,2010-04-09,2010-04-24,15,detail
+23,Le,B1,New,BeiJing,EE,Clear,2010-04-12,2010-04-29,17,detail
+24,bospvg,H1,Renewal,ShangHai,Analytical Chemistry,Clear,2010-04-12,2010-05-06,24,detail
+25,YMCA,H1,Renewal,Toronto,Chem Eng,Clear,2010-04-12,2010-05-17,35,detail
+26,abcde,B1,New,ChengDu,CS,Pending,2010-04-13,0000-00-00,3228,detail
+27,HUSTCSJason,B1,New,BeiJing,CS,Clear,2010-04-13,2010-04-30,17,detail
+28,acpi,B1,New,ShangHai,CS,Clear,2010-04-14,2010-05-05,21,detail
+29,patrick,H1,Renewal,BeiJing,BE,Clear,2010-04-14,2010-04-30,16,detail
+30,cissy,B1,New,ShangHai,EE,Clear,2010-04-14,2010-05-04,20,detail
+31,wh,J1,New,BeiJing,Food Science,Clear,2010-04-14,2010-05-04,20,detail
+32,garnett,F1,New,BeiJing,Aerospace and Mechanical,Reject,2010-04-14,2010-11-15,215,detail
+33,xu,J1,New,ShangHai,medicine,Clear,2010-04-15,2010-05-07,22,detail
+34,sevense,F1,New,BeiJing,CS,Clear,2010-04-15,2010-05-04,19,detail
+35,Smiling,H1,Renewal,ShangHai,physics,Clear,2010-04-15,2010-05-21,36,detail
+36,pumemng,B1,New,BeiJing,chemistry,Clear,2010-04-15,2010-05-07,22,detail
+37,teng,H1,New,ShangHai,EE,Clear,2010-04-16,2010-05-06,20,detail
+38,danny,J1,New,ShangHai,ME,Clear,2010-04-16,2010-05-12,26,detail
+39,zyj001et,F1,New,ShangHai,Computer science,Clear,2010-04-19,2010-05-03,14,detail
+40,babycat,B2,New,BeiJing,ECE,Clear,2010-04-19,2010-05-05,16,detail
+41,imfaraway,F2,New,ChengDu,Chemical Engineering,Clear,2010-04-19,2010-05-13,24,detail
+42,Fanjie,H1,Renewal,ShangHai,Biology,Clear,2010-04-19,2010-05-05,16,detail
+43,billlch,F1,Renewal,ShangHai,Materials Sci &Eng,Clear,2010-04-19,2010-05-20,31,detail
+44,dipole,F1,New,BeiJing,Biochemistry,Clear,2010-04-20,2010-05-11,21,detail
+45,jbgz,H1,Renewal,BeiJing,hematology,Clear,2010-04-20,2010-05-05,15,detail
+46,william115,B1,New,BeiJing,N/A,Clear,2010-04-20,2010-05-07,17,detail
+47,Yuanyuan,J1,New,Others,chemistry,Clear,2010-04-20,2010-05-06,16,detail
+48,zephyr,F1,New,ShenYang,NE,Clear,2010-04-21,2010-05-08,17,detail
+49,yydwsn,F1,New,ShangHai,EE,Clear,2010-04-21,2010-06-01,41,detail
+50,Zhuoliang,F1,New,ShangHai,Computer Science,Clear,2010-04-22,2010-05-19,27,detail
+51,lsunlight,F1,New,ChengDu,Chem,Clear,2010-04-22,2010-06-02,41,detail
+52,stone,B1,New,ShangHai,optical engineering,Clear,2010-04-22,2010-05-18,26,detail
+53,netbsd9,F1,Renewal,BeiJing,ECE,Clear,2010-04-23,2010-05-12,19,detail
+54,mechzhao,J1,New,BeiJing,materials science,Clear,2010-04-23,2010-05-29,36,detail
+55,lund,F1,New,BeiJing,EE,Clear,2010-04-23,2010-05-07,14,detail
+56,Congling,F1,New,BeiJing,Chemical Engineering,Clear,2010-04-23,2010-05-10,17,detail
+57,newyork,H1,Renewal,BeiJing,ChE and BioChem,Clear,2010-04-23,2010-05-12,19,detail
+58,smileqq,F1,New,BeiJing,CS(used to be EE),Clear,2010-04-23,2010-06-03,41,detail
+59,anonymous,F1,Renewal,Others,Computer Science,Clear,2010-04-23,2010-05-06,13,detail
+60,zzzyzzzz,J2,New,Montreal,biochemistry,Clear,2010-04-23,2010-10-01,161,detail
+61,zyvisa,F1,New,ShenYang,pharmaceutics,Clear,2010-04-26,2010-05-19,23,detail
+62,nutrilite,B1,New,Europe,Neuroscience,Pending,2010-04-26,0000-00-00,3215,detail
+63,biubiu912,B1,New,ShangHai,chemical engineering,Pending,2010-04-26,0000-00-00,3215,detail
+64,JL,F1,New,ShangHai,pharmaceutics,Clear,2010-04-26,2010-05-15,19,detail
+65,ping10,F1,Renewal,ShangHai,biology,Clear,2010-04-26,2010-05-11,15,detail
+66,rainbaby,F1,Renewal,ShangHai,Physics,Clear,2010-04-26,2010-05-13,17,detail
+67,bakagh,H1,New,BeiJing,GIS(Geographic Informatio,Clear,2010-04-27,2010-05-14,17,detail
+68,leoshl,F1,New,ShangHai,CS,Clear,2010-04-27,2010-05-11,14,detail
+69,nestle,B2,New,ChengDu,chemistry,Clear,2010-04-27,2010-05-17,20,detail
+70,nestle,B2,New,ChengDu,EE/Business,Clear,2010-04-27,2010-05-17,20,detail
+71,flinblfl,F1,Renewal,Ottawa,ECE,Clear,2010-04-27,2010-05-14,17,detail
+72,yale00,F1,New,ShenYang,Crop Science,Clear,2010-04-27,2010-05-13,16,detail
+73,Rainy,F1,New,BeiJing,ComputerScience,Clear,2010-04-27,2010-05-13,16,detail
+74,mrdragon,H1,Renewal,BeiJing,EE,Clear,2010-04-28,2010-05-12,14,detail
+75,duoduo,H1,New,BeiJing,ME,Clear,2010-04-28,2010-05-14,16,detail
+76,nn,F1,New,BeiJing,CS,Clear,2010-04-29,2010-06-04,36,detail
+77,plumco,F1,New,ShangHai,EE,Clear,2010-04-29,2010-05-13,14,detail
+78,huang,J1,New,ShangHai,CS,Clear,2010-04-29,2010-05-17,18,detail
+79,henry_hf,B1,New,ShangHai,Information,Clear,2010-04-29,2010-05-14,15,detail
+80,wyj_1983,F1,New,GuangZhou,CS,Clear,2010-04-29,2010-05-19,20,detail
+81,Tensor,J1,New,Toronto,ChE (Materials before),Clear,2010-04-29,2010-06-14,46,detail
+82,felix888,H1,New,ChengDu,medicine,Clear,2010-04-30,2010-05-15,15,detail
+83,mek,J1,Renewal,BeiJing,physics,Clear,2010-04-30,2010-05-20,20,detail

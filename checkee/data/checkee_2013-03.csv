@@ -1,0 +1,105 @@
+,ID,Visa Type,Visa Entry,US Consulate,Major,Status,Check Date,Complete Date,Waiting Day(s),Details
+0,energon,J1,New,GuangZhou,CS,Clear,2013-03-01,2013-04-01,31,detail
+1,Highwayzhu,J1,New,ShangHai,Biology,Clear,2013-03-01,2013-04-02,32,detail
+2,Lillian,J1,New,ShangHai,Biology,Clear,2013-03-01,2013-03-28,27,detail
+3,charles,F1,Renewal,ShangHai,Computer Science,Clear,2013-03-01,2013-04-02,32,detail
+4,daviduan,J1,New,ShangHai,CS,Clear,2013-03-04,2013-04-02,29,detail
+5,dcfqy,J1,New,ShangHai,biology,Clear,2013-03-04,2013-04-02,29,detail
+6,helenzhou29,F1,New,BeiJing,CS,Clear,2013-03-04,2013-03-29,25,detail
+7,zz,F1,Renewal,GuangZhou,Neuroscience,Clear,2013-03-04,2013-04-01,28,detail
+8,hanxu128,H1,Renewal,ShangHai,EE,Clear,2013-03-04,2013-04-02,29,detail
+9,HAPPY,F1,Renewal,BeiJing,HR,Clear,2013-03-05,2013-03-14,9,detail
+10,mime262,B1,Renewal,Montreal,biomedical,Pending,2013-03-05,0000-00-00,2171,detail
+11,yitu,B1,New,Europe,ME,Clear,2013-03-05,2013-04-10,36,detail
+12,AA002VWS9B,B2,New,ShangHai,CS,Clear,2013-03-05,2013-04-02,28,detail
+13,xingkaiduan,J1,New,BeiJing,CA,Clear,2013-03-06,2013-04-18,43,detail
+14,S,F1,Renewal,ShangHai,Physics,Clear,2013-03-06,2013-04-08,33,detail
+15,cosmosbean,J1,New,BeiJing,EE,Clear,2013-03-06,2013-04-08,33,detail
+16,6988,H1,Renewal,BeiJing,N/A,Pending,2013-03-07,0000-00-00,2169,detail
+17,spolo,H1,New,ShangHai,N/A,Clear,2013-03-08,2013-04-18,41,detail
+18,sunivan,F1,New,ShangHai,biological engineering,Clear,2013-03-08,2013-04-08,31,detail
+19,flyintherain,F1,Renewal,BeiJing,Mechanical Engineering,Clear,2013-03-08,2013-04-05,28,detail
+20,AA002Y3KRJ,B1,New,GuangZhou,Pattern Recongnition,Clear,2013-03-11,2013-04-05,25,detail
+21,Justin,J1,Renewal,BeiJing,Biology,Clear,2013-03-11,2013-04-12,32,detail
+22,Curtis,B1,New,GuangZhou,Genetics,Clear,2013-03-11,2013-04-05,25,detail
+23,shuwenjs,J1,New,ShangHai,EE,Clear,2013-03-11,2013-04-08,28,detail
+24,yh985,L1,Renewal,Others,ME,Clear,2013-03-11,2013-04-05,25,detail
+25,yysy,F1,Renewal,ShangHai,N/A,Clear,2013-03-11,2013-04-15,35,detail
+26,chshy,F1,New,BeiJing,Biomedical Science,Clear,2013-03-11,2013-04-05,25,detail
+27,wiener0304,J1,New,ShangHai,control theory,Pending,2013-03-11,0000-00-00,2165,detail
+28,bellapeng,F1,New,BeiJing,CS,Clear,2013-03-11,2013-04-05,25,detail
+29,oott,H1,Renewal,ShangHai,biochem,Clear,2013-03-11,2013-04-08,28,detail
+30,weikun,J1,Renewal,BeiJing,chemistry,Clear,2013-03-12,2013-04-05,24,detail
+31,Amoose1,B2,New,Europe,Biotechnology,Clear,2013-03-12,2013-05-06,55,detail
+32,zsq8911,J1,New,BeiJing,medical imaging,Clear,2013-03-12,2013-04-11,30,detail
+33,joe,H1,New,ShangHai,N/A,Clear,2013-03-12,2013-04-16,35,detail
+34,Yi,F1,Renewal,ShangHai,Chemistry,Clear,2013-03-12,2013-04-17,36,detail
+35,123456,F1,Renewal,BeiJing,polymer,Clear,2013-03-13,2013-04-15,33,detail
+36,spartaner,F1,Renewal,BeiJing,Biochemistry,Clear,2013-03-13,2013-04-11,29,detail
+37,Janewong,F1,New,BeiJing,cad,Clear,2013-03-13,2013-04-09,27,detail
+38,CMSC07,F1,Renewal,BeiJing,CS,Clear,2013-03-14,2013-04-16,33,detail
+39,Easy,B1,New,BeiJing,N/A,Clear,2013-03-15,2013-04-15,31,detail
+40,tinyice,B1,Renewal,BeiJing,CS,Clear,2013-03-15,2013-04-16,32,detail
+41,magl,H1,Renewal,BeiJing,Physics,Clear,2013-03-15,2013-04-16,32,detail
+42,lalalala,J1,New,BeiJing,N/A,Pending,2013-03-15,0000-00-00,2161,detail
+43,shawnhe,B1,New,GuangZhou,Optics,Clear,2013-03-15,2013-04-16,32,detail
+44,lonesome,J2,New,Others,EE,Clear,2013-03-15,2013-04-26,42,detail
+45,njuzhp,F1,Renewal,Europe,Computer Science,Clear,2013-03-15,2013-05-10,56,detail
+46,tudouxiaoxin,J1,New,BeiJing,Biochemistry,Clear,2013-03-15,2013-04-15,31,detail
+47,basketball,H1,New,BeiJing,NE,Clear,2013-03-18,2013-04-16,29,detail
+48,1234,J1,Renewal,BeiJing,dentistry,Clear,2013-03-18,2013-04-16,29,detail
+49,wofeiyun,J1,New,BeiJing,biology,Clear,2013-03-18,2013-05-22,65,detail
+50,asrata,F1,Renewal,Toronto,Computer Science,Clear,2013-03-18,2013-06-21,95,detail
+51,smith,J1,New,BeiJing,CS,Clear,2013-03-19,2013-04-23,35,detail
+52,aaa,F1,Renewal,BeiJing,CS,Clear,2013-03-19,2013-04-12,24,detail
+53,wjl,L1,Renewal,Vancouver,CS,Clear,2013-03-19,2013-04-15,27,detail
+54,55555,B2,Renewal,GuangZhou,N/A,Clear,2013-03-20,2013-10-09,203,detail
+55,lightwings,B1,New,ShangHai,CS,Clear,2013-03-20,2013-04-28,39,detail
+56,picklecy,H1,Renewal,BeiJing,biochem,Clear,2013-03-20,2013-04-17,28,detail
+57,lbst110,L1,Renewal,BeiJing,SE,Clear,2013-03-21,2013-05-20,60,detail
+58,pingo,F1,Renewal,Europe,biology,Clear,2013-03-21,2013-04-25,35,detail
+59,mamamia,B1,New,BeiJing,Biochemical Engineering,Clear,2013-03-21,2013-04-17,27,detail
+60,cellence,F1,Renewal,ShangHai,Physics,Clear,2013-03-21,2013-04-19,29,detail
+61,Ning_M,L1,Renewal,BeiJing,EE,Clear,2013-03-21,2013-04-18,28,detail
+62,cji,F1,Renewal,ChengDu,Computer Science,Clear,2013-03-21,2013-04-30,40,detail
+63,Dora,B2,New,HongKong,CS,Clear,2013-03-21,2013-08-01,133,detail
+64,winnipeg,B1,New,Others,Human Nutrition,Clear,2013-03-22,2013-05-07,46,detail
+65,AA002YYXXX,B2,New,ShangHai,Biology,Clear,2013-03-22,2013-04-23,32,detail
+66,o2day,H1,New,Others,EE,Clear,2013-03-22,2013-04-26,35,detail
+67,jade,J1,New,Europe,Chemistry,Clear,2013-03-22,2013-04-30,39,detail
+68,shuzhi,F1,New,BeiJing,Computer Science,Clear,2013-03-22,2013-04-26,35,detail
+69,335R,L1,Renewal,ShangHai,N/A,Clear,2013-03-25,2013-04-23,29,detail
+70,nonnot,F1,Renewal,GuangZhou,EE,Clear,2013-03-25,2013-04-26,32,detail
+71,050304,J1,New,ShangHai,Geography,Clear,2013-03-25,2013-04-22,28,detail
+72,battlehymn,H1,New,ShangHai,Analytical Chemistry,Clear,2013-03-25,2013-04-26,32,detail
+73,carsar,J1,New,BeiJing,Material science,Clear,2013-03-25,2013-04-26,32,detail
+74,dudu,J1,New,BeiJing,N/A,Clear,2013-03-25,2013-04-19,25,detail
+75,habe,J1,Renewal,BeiJing,N/A,Clear,2013-03-25,2013-04-30,36,detail
+76,cityhunter,J1,New,ChengDu,geochem,Clear,2013-03-25,2013-04-30,36,detail
+77,VitC,J1,Renewal,GuangZhou,chemistry,Clear,2013-03-25,2013-04-26,32,detail
+78,Jiajia,H1,Renewal,Toronto,computer science,Clear,2013-03-25,2013-05-01,37,detail
+79,Habe,J1,Renewal,BeiJing,Chemistry,Pending,2013-03-25,0000-00-00,2151,detail
+80,RI,H1,New,ShangHai,Medicinal chemistry,Clear,2013-03-25,2013-04-26,32,detail
+81,ericpei,J1,New,ShangHai,EECS,Clear,2013-03-26,2013-05-07,42,detail
+82,cooleel,B1,New,BeiJing,Biology,Clear,2013-03-26,2013-04-26,31,detail
+83,ghuwh@boun.cr,B1,New,BeiJing,N/A,Pending,2013-03-26,0000-00-00,2150,detail
+84,donglest,B1,Renewal,Others,CS,Clear,2013-03-26,2013-04-25,30,detail
+85,blincat,J1,New,ShangHai,Epidemiology,Clear,2013-03-26,2013-04-24,29,detail
+86,kgy777,H1,Renewal,ShangHai,Mechanical,Clear,2013-03-26,2013-04-26,31,detail
+87,Cangoal,F1,Renewal,BeiJing,ECE,Clear,2013-03-27,2013-04-26,30,detail
+88,yuewumu,J1,New,ShangHai,Med. Chem,Clear,2013-03-27,2013-04-26,30,detail
+89,movie,F1,Renewal,GuangZhou,EE,Clear,2013-03-27,2013-04-26,30,detail
+90,geojy,H1,Renewal,ChengDu,physics,Clear,2013-03-27,2013-04-30,34,detail
+91,AA002ZXXXX,H1,Renewal,BeiJing,cs,Clear,2013-03-28,2013-05-02,35,detail
+92,uvawdmu,H1,New,ShangHai,Physics,Pending,2013-03-28,0000-00-00,2148,detail
+93,sameyh,J1,New,BeiJing,computer science,Clear,2013-03-28,2013-04-26,29,detail
+94,aa02z77yf,B1,New,ShangHai,N/A,Clear,2013-03-28,2013-04-26,29,detail
+95,COCO,B2,New,ShangHai,IT,Clear,2013-03-28,2013-04-05,8,detail
+96,SJH,B1,New,BeiJing,Electro,Clear,2013-03-28,2013-05-09,42,detail
+97,lazyca,B1,New,BeiJing,N/A,Clear,2013-03-28,2013-11-05,222,detail
+98,wcylester,B1,Renewal,BeiJing,CS,Clear,2013-03-28,2013-04-26,29,detail
+99,bd708,H1,Renewal,BeiJing,business,Clear,2013-03-28,2013-04-26,29,detail
+100,cathy,H1,New,BeiJing,EE,Clear,2013-03-28,2013-05-07,40,detail
+101,only,H1,New,BeiJing,physics,Clear,2013-03-28,2013-05-01,34,detail
+102,ames,B2,New,BeiJing,N/A,Clear,2013-03-29,2013-05-02,34,detail
+103,ruoruo,B2,New,BeiJing,ME,Clear,2013-03-29,2013-04-26,28,detail

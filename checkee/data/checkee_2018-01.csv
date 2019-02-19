@@ -1,0 +1,214 @@
+,ID,Visa Type,Visa Entry,US Consulate,Major,Status,Check Date,Complete Date,Waiting Day(s),Details
+0,201803,B1,Renewal,ShangHai,N/A,Clear,2018-01-02,2018-01-26,24,detail
+1,bochet,F1,Renewal,ShangHai,N/A,Pending,2018-01-02,0000-00-00,407,detail
+2,melo,H1,New,ShenYang,me,Clear,2018-01-02,2018-02-21,50,detail
+3,fung,F1,Renewal,BeiJing,CS,Clear,2018-01-02,2018-01-19,17,detail
+4,clxviii,L1,New,BeiJing,CS,Clear,2018-01-02,2018-01-26,24,detail
+5,luciferchao,F1,Renewal,BeiJing,Chemistry,Clear,2018-01-02,2018-01-25,23,detail
+6,scarletrutgers,F1,Renewal,BeiJing,Plant Biology,Clear,2018-01-02,2018-02-01,30,detail
+7,checker,F1,New,BeiJing,Humanities,Clear,2018-01-02,2018-02-09,38,detail
+8,SomeNum,F1,Renewal,GuangZhou,EE,Clear,2018-01-02,2018-01-25,23,detail
+9,8778999,H1,Renewal,ShenYang,cs,Clear,2018-01-02,2018-02-21,50,detail
+10,fed,F1,Renewal,Others,CS,Clear,2018-01-02,2018-01-23,21,detail
+11,kidd,H1,Renewal,BeiJing,EE,Clear,2018-01-02,2018-01-31,29,detail
+12,hejie2345,H1,New,ShenYang,Chemical Engineering,Clear,2018-01-02,2018-02-01,30,detail
+13,20069060,H1,New,BeiJing,HCI,Clear,2018-01-02,2018-02-14,43,detail
+14,AA007EZAZO,H1,New,ShenYang,Accounting,Clear,2018-01-02,2018-01-17,15,detail
+15,soap604,H1,New,BeiJing,Physics,Clear,2018-01-02,2018-02-14,43,detail
+16,HUSTMONK,H1,New,BeiJing,EE,Clear,2018-01-02,2018-02-14,43,detail
+17,venezsia1573,B2,New,Others,TSE,Clear,2018-01-03,2018-01-09,6,detail
+18,CX,F1,Renewal,GuangZhou,Pharma,Clear,2018-01-03,2018-01-09,6,detail
+19,bbua,B2,New,GuangZhou,N/A,Clear,2018-01-03,2018-01-10,7,detail
+20,littlefish,J1,New,ChengDu,Materials,Clear,2018-01-03,2018-01-25,22,detail
+21,paopao93,H1,New,ShangHai,Accounting,Clear,2018-01-03,2018-01-22,19,detail
+22,robbier,B1,New,Others,Aerospace Engineering,Clear,2018-01-03,2018-01-25,22,detail
+23,iveryone,B1,New,ShangHai,Biology,Clear,2018-01-03,2018-01-26,23,detail
+24,frederick,F1,Renewal,ShenYang,N/A,Clear,2018-01-03,2018-01-24,21,detail
+25,lin,F1,New,ShangHai,CS,Clear,2018-01-04,2018-01-26,22,detail
+26,ntgxw,H1,New,ShangHai,Biomedical,Clear,2018-01-04,2018-01-26,22,detail
+27,doccheng,J1,New,ShangHai,Medicine,Clear,2018-01-04,2018-01-26,22,detail
+28,asdf,J1,New,ShangHai,N/A,Pending,2018-01-04,0000-00-00,405,detail
+29,wildpace,F1,Renewal,GuangZhou,Chemical Engineering,Clear,2018-01-04,2018-01-23,19,detail
+30,kuangcikuangci,B2,New,GuangZhou,Material Science,Clear,2018-01-04,2018-01-26,22,detail
+31,lucky,H1,New,GuangZhou,CS,Clear,2018-01-04,2018-01-26,22,detail
+32,lplplplplp,F1,Renewal,BeiJing,cs,Clear,2018-01-04,2018-01-27,23,detail
+33,shenlexixi,J1,Renewal,ShangHai,Education,Clear,2018-01-04,2018-01-25,21,detail
+34,BE9126491,B2,New,ChengDu,Biochemistry,Clear,2018-01-04,2018-01-29,25,detail
+35,qyxx01,J1,New,Others,CS,Clear,2018-01-04,2018-01-26,22,detail
+36,pumpkin4857,B1,Renewal,Others,CS,Clear,2018-01-04,2018-01-30,26,detail
+37,cguan,H1,New,GuangZhou,Computer Science,Clear,2018-01-04,2018-03-09,64,detail
+38,kuangcikuangci,B2,New,GuangZhou,Material Science,Clear,2018-01-04,2018-01-26,22,detail
+39,Goodluck,F1,Renewal,Others,Chemistry,Clear,2018-01-04,2018-03-16,71,detail
+40,zxw000,B1,New,BeiJing,EE,Pending,2018-01-04,0000-00-00,405,detail
+41,KK,B2,New,Toronto,Systems Design Engineerin,Pending,2018-01-04,0000-00-00,405,detail
+42,eric,J1,New,BeiJing,N/A,Clear,2018-01-04,2018-02-09,36,detail
+43,eric,F1,New,BeiJing,N/A,Clear,2018-01-04,2018-02-09,36,detail
+44,xiao4816,J1,New,ShangHai,MIS,Clear,2018-01-05,2018-01-26,21,detail
+45,jiazhu,J1,New,ShangHai,physics,Clear,2018-01-05,2018-01-11,6,detail
+46,Qi,H1,New,ShangHai,Statistics,Clear,2018-01-05,2018-01-23,18,detail
+47,xz2018,H1,Renewal,BeiJing,CS,Clear,2018-01-05,2018-01-26,21,detail
+48,txy2018,H4,Renewal,BeiJing,CS,Clear,2018-01-05,2018-01-26,21,detail
+49,mofei,B2,New,BeiJing,CS,Clear,2018-01-05,2018-01-26,21,detail
+50,ray,B1,New,ShangHai,CS,Clear,2018-01-05,2018-01-29,24,detail
+51,qqqqted,F1,Renewal,ShangHai,Mechanical Engineering,Clear,2018-01-05,2018-01-29,24,detail
+52,elf,B2,New,GuangZhou,Software Engineering,Clear,2018-01-05,2018-01-29,24,detail
+53,AA007GE68,J1,New,BeiJing,N/A,Pending,2018-01-05,0000-00-00,404,detail
+54,LJY,H1,New,Vancouver,Computer Engineering,Clear,2018-01-08,2018-01-30,22,detail
+55,facebbook,B2,New,BeiJing,CS,Clear,2018-01-08,2018-01-12,4,detail
+56,123case,H1,New,BeiJing,finance,Clear,2018-01-08,2018-01-12,4,detail
+57,jun20180108,J1,Renewal,ShangHai,Biology,Pending,2018-01-08,0000-00-00,401,detail
+58,daidai,B1,New,ShenYang,N/A,Clear,2018-01-08,2018-01-26,18,detail
+59,maomao123,H1,New,ShangHai,Industrial Engineering,Clear,2018-01-08,2018-01-17,9,detail
+60,young298,B2,New,BeiJing,communication engineering,Clear,2018-01-08,2018-02-06,29,detail
+61,asukarei,B1,Renewal,BeiJing,optical fiber communicati,Clear,2018-01-08,2018-01-31,23,detail
+62,zrw93,H1,New,BeiJing,CS,Clear,2018-01-08,2018-01-26,18,detail
+63,check2018,F1,Renewal,ShangHai,Mechanical Engineering,Clear,2018-01-08,2018-01-29,21,detail
+64,reformasky,H1,New,BeiJing,CS + Bio,Pending,2018-01-08,0000-00-00,401,detail
+65,miumiubeta,H1,Renewal,ShangHai,N/A,Clear,2018-01-08,2018-01-30,22,detail
+66,wye11083,B1,New,BeiJing,Computer Science,Clear,2018-01-08,2018-01-26,18,detail
+67,clover,J1,New,ShangHai,pathology,Clear,2018-01-08,2018-02-07,30,detail
+68,20180108HZ,B1,New,ShangHai,Mechanical Engineering,Clear,2018-01-08,2018-02-02,25,detail
+69,miumiubeta4,H4,Renewal,ShangHai,N/A,Clear,2018-01-08,2018-01-30,22,detail
+70,clique,H1,New,BeiJing,CS,Clear,2018-01-08,2018-01-31,23,detail
+71,dgl12345678,H1,New,BeiJing,N/A,Pending,2018-01-08,0000-00-00,401,detail
+72,M.X,J2,New,BeiJing,CS,Clear,2018-01-08,2018-02-08,31,detail
+73,AA00713GD2,B1,Renewal,BeiJing,N/A,Pending,2018-01-08,0000-00-00,401,detail
+74,tireding,H1,New,BeiJing,Computer Science,Clear,2018-01-08,2018-02-14,37,detail
+75,vemmy,H1,New,BeiJing,Graphic Design,Clear,2018-01-08,2018-05-31,143,detail
+76,mnzmx,B2,New,GuangZhou,CS,Clear,2018-01-09,2018-02-05,27,detail
+77,Shh1,H1,Renewal,ShangHai,Stats,Pending,2018-01-09,0000-00-00,400,detail
+78,100,B1,New,ShangHai,Biopolymer,Clear,2018-01-09,2018-02-01,23,detail
+79,shaohao,B1,New,ShangHai,automation,Clear,2018-01-09,2018-01-31,22,detail
+80,sbustanley,F1,Renewal,BeiJing,CAM,Pending,2018-01-09,0000-00-00,400,detail
+81,checkee,F1,Renewal,Others,CS,Clear,2018-01-09,2018-01-31,22,detail
+82,muguamuguazi,H1,Renewal,ShangHai,ChemE,Clear,2018-01-09,2018-02-08,30,detail
+83,snoiwnters,J1,New,BeiJing,ME,Pending,2018-01-09,0000-00-00,400,detail
+84,dillonguan,B1,New,ShangHai,biotech,Clear,2018-01-10,2018-02-01,22,detail
+85,Avica,B2,New,BeiJing,communication engineering,Clear,2018-01-10,2018-02-06,27,detail
+86,ymmmm,J1,Renewal,ShangHai,immunology,Clear,2018-01-10,2018-02-01,22,detail
+87,wzprince,F1,Renewal,GuangZhou,chemistry,Clear,2018-01-10,2018-01-31,21,detail
+88,201801,H1,Renewal,Vancouver,Information Systems,Clear,2018-01-10,2018-02-01,22,detail
+89,2018001,H4,Renewal,Vancouver,N/A,Clear,2018-01-10,2018-02-01,22,detail
+90,AA007IL878,J1,Renewal,GuangZhou,N/A,Clear,2018-01-10,2018-02-12,33,detail
+91,Shunji YU,B1,New,ShangHai,biochemistry,Pending,2018-01-10,0000-00-00,399,detail
+92,12356789,J1,New,BeiJing,N/A,Clear,2018-01-10,2018-03-09,58,detail
+93,htuypan,F1,New,BeiJing,Condensed Matter Physics,Pending,2018-01-11,0000-00-00,398,detail
+94,aaaa,F1,Renewal,Ottawa,Civil Engineering,Clear,2018-01-11,2018-02-08,28,detail
+95,sww-2018,H1,Renewal,ShangHai,MSE,Clear,2018-01-11,2018-02-08,28,detail
+96,gino666,H1,New,GuangZhou,FE,Clear,2018-01-11,2018-01-26,15,detail
+97,AA007****8,B1,New,Others,Computer Science,Pending,2018-01-11,0000-00-00,398,detail
+98,ALICE,F1,Renewal,ShangHai,Pharmacology,Clear,2018-01-11,2018-02-09,29,detail
+99,SL,L1,Renewal,GuangZhou,ME,Clear,2018-01-11,2018-02-07,27,detail
+100,gx1223,H1,New,BeiJing,CS,Clear,2018-01-11,2018-02-01,21,detail
+101,besideme,B2,New,ShangHai,chemistry,Clear,2018-01-11,2018-02-01,21,detail
+102,tedhoho,H1,New,Others,Computer Engineering,Clear,2018-01-11,2018-02-07,27,detail
+103,liyangelf,H1,New,BeiJing,biology,Clear,2018-01-11,2018-02-06,26,detail
+104,YZR22,J1,New,ShangHai,Neuroscience,Clear,2018-01-11,2018-02-06,26,detail
+105,yyykkk,B1,New,BeiJing,Dispatch,Clear,2018-01-11,2018-02-13,33,detail
+106,AA007IMH0E,J1,New,BeiJing,N/A,Pending,2018-01-12,0000-00-00,397,detail
+107,Mimot,B1,New,Europe,Engineer,Clear,2018-01-12,2018-02-02,21,detail
+108,AA007IMH0E,J1,New,BeiJing,N/A,Pending,2018-01-12,0000-00-00,397,detail
+109,fywen,F1,Renewal,GuangZhou,physics,Clear,2018-01-12,2018-02-06,25,detail
+110,溜溜梅,J1,Renewal,BeiJing,chemistry,Pending,2018-01-14,0000-00-00,395,detail
+111,johnny,B1,Renewal,GuangZhou,engineer,Pending,2018-01-15,0000-00-00,394,detail
+112,check2018,H4,New,ShangHai,cs,Clear,2018-01-16,2018-01-30,14,detail
+113,jmaybee,F1,New,ShangHai,chemistry,Clear,2018-01-16,2018-02-01,16,detail
+114,tatami99,F1,Renewal,ShenYang,MIS,Clear,2018-01-16,2018-02-07,22,detail
+115,bbs2001,B1,New,BeiJing,optical engineer,Pending,2018-01-16,0000-00-00,393,detail
+116,AA007IM1GC,B1,New,BeiJing,CS,Clear,2018-01-16,2018-02-05,20,detail
+117,sstellaa,H1,New,BeiJing,CS,Clear,2018-01-16,2018-02-06,21,detail
+118,AA007JB4QW,B1,New,BeiJing,Software Engineer,Clear,2018-01-17,2018-01-23,6,detail
+119,charlie,B2,Renewal,ShenYang,English,Pending,2018-01-17,0000-00-00,392,detail
+120,hp3128,B1,New,ShangHai,Material Chemistry,Clear,2018-01-17,2018-02-14,28,detail
+121,freehgy,B1,Renewal,GuangZhou,N/A,Reject,2018-01-17,2018-01-22,5,detail
+122,Polyli,H1,Renewal,ShangHai,EE,Clear,2018-01-17,2018-02-07,21,detail
+123,gg,H1,New,ShangHai,Chemistry,Clear,2018-01-17,2018-02-09,23,detail
+124,AA007J7KOC,B1,New,BeiJing,Medicine,Pending,2018-01-17,0000-00-00,392,detail
+125,G35781029,J1,Renewal,ShangHai,Bioinformatics,Clear,2018-01-17,2018-02-09,23,detail
+126,yummy1221,H1,New,BeiJing,Computer Science,Clear,2018-01-18,2018-02-09,22,detail
+127,illucas,H1,New,GuangZhou,CS,Pending,2018-01-18,0000-00-00,391,detail
+128,bbb,H1,New,BeiJing,Biochemistry,Pending,2018-01-18,0000-00-00,391,detail
+129,useragent,H1,New,BeiJing,CS,Clear,2018-01-18,2018-02-09,22,detail
+130,AA007JBW7W,B2,New,ShangHai,N/A,Clear,2018-01-18,2018-02-09,22,detail
+131,morningglory,H1,Renewal,ShangHai,engineering,Clear,2018-01-18,2018-02-09,22,detail
+132,Me Me,L1,Renewal,GuangZhou,MBA,Clear,2018-01-18,2018-04-04,76,detail
+133,USUSUSUSUS,B1,New,GuangZhou,Finance,Clear,2018-01-18,2018-04-24,96,detail
+134,winterenvoy,B2,New,ShangHai,Optical Engineering,Clear,2018-01-19,2018-02-08,20,detail
+135,qiu,L1,Renewal,ShangHai,N/A,Clear,2018-01-19,2018-02-12,24,detail
+136,Zzzzzz,H4,Renewal,ShangHai,Biology,Clear,2018-01-19,2018-02-09,21,detail
+137,AA007JU3IU,L1,Renewal,ShangHai,N/A,Clear,2018-01-19,2018-04-04,75,detail
+138,Levi,F1,Renewal,ChengDu,Mechanical Engineering,Clear,2018-01-22,2018-02-08,17,detail
+139,ttanxu,H1,Renewal,BeiJing,CS - Machine Learning,Clear,2018-01-22,2018-02-14,23,detail
+140,xchen57,F1,Renewal,ShangHai,Chemistry,Clear,2018-01-22,2018-03-05,42,detail
+141,Get,H1,Renewal,BeiJing,N/A,Clear,2018-01-22,2018-02-09,18,detail
+142,KK,H1,Renewal,ChengDu,Chemical Engineering,Clear,2018-01-22,2018-02-09,18,detail
+143,Newyork,J1,Renewal,BeiJing,Climate,Clear,2018-01-22,2018-02-13,22,detail
+144,shijun.wen,B2,New,BeiJing,GIS,Clear,2018-01-22,2018-02-23,32,detail
+145,wawa,J1,New,BeiJing,biochemistry,Clear,2018-01-22,2018-02-13,22,detail
+146,wizardyang,H1,Renewal,BeiJing,EE,Clear,2018-01-22,2018-02-14,23,detail
+147,llllllllc,F1,Renewal,BeiJing,Materials  Science,Clear,2018-01-22,2018-02-09,18,detail
+148,johnnature,J1,New,ChengDu,PHD,Clear,2018-01-22,2018-02-09,18,detail
+149,yestin,L1,Renewal,BeiJing,CS-Machine Learning,Clear,2018-01-22,2018-02-14,23,detail
+150,RuanRuan,F1,Renewal,ShangHai,Biochemistry,Clear,2018-01-22,2018-02-09,18,detail
+151,maodouchaorousi,B2,New,ShangHai,Mechatronic Engineering,Clear,2018-01-22,2018-02-14,23,detail
+152,MIMI,F2,New,BeiJing,Chemistry,Clear,2018-01-22,2018-03-12,49,detail
+153,bjzhou,B1,Renewal,ShangHai,materials,Clear,2018-01-23,2018-03-24,60,detail
+154,DogHuang,B1,New,ShangHai,ME,Clear,2018-01-23,2018-02-14,22,detail
+155,shiruyin,H1,Renewal,BeiJing,Statistics,Pending,2018-01-23,0000-00-00,386,detail
+156,AA007JV4U6,B1,New,ShangHai,N/A,Pending,2018-01-23,0000-00-00,386,detail
+157,liyuqian,H1,New,BeiJing,CS,Clear,2018-01-23,2018-02-22,30,detail
+158,dipper,F1,Renewal,ShangHai,Chemistry,Clear,2018-01-24,2018-02-21,28,detail
+159,fuq_fly,H1,Renewal,ShangHai,N/A,Pending,2018-01-24,0000-00-00,385,detail
+160,yydjay1100,F1,Renewal,ShangHai,cs,Clear,2018-01-24,2018-02-14,21,detail
+161,yinw,B1,New,ShangHai,Software engineering,Clear,2018-01-24,2018-02-21,28,detail
+162,rfreshlei,H1,New,BeiJing,EE,Pending,2018-01-24,0000-00-00,385,detail
+163,suxin9999,B1,New,BeiJing,EE,Clear,2018-01-25,2018-02-21,27,detail
+164,whatnoyeah,B1,New,BeiJing,Electronic Engineering,Clear,2018-01-25,2018-02-21,27,detail
+165,sxt1229,B1,New,BeiJing,mechanics,Clear,2018-01-25,2018-02-14,20,detail
+166,lzqshmilyy,H1,New,GuangZhou,SDE,Clear,2018-01-25,2018-02-07,13,detail
+167,shuibo,B2,New,ShangHai,cs,Clear,2018-01-25,2018-02-28,34,detail
+168,blulue,B1,Renewal,ShangHai,Neuroscience,Clear,2018-01-25,2018-02-22,28,detail
+169,jye,B1,New,ShangHai,AI,Pending,2018-01-25,0000-00-00,384,detail
+170,DOR,B1,New,ChengDu,Electrical engineering,Clear,2018-01-25,2018-03-02,36,detail
+171,davesgz,B1,New,GuangZhou,Polymer,Pending,2018-01-25,0000-00-00,384,detail
+172,peng.shao@aliyu,B1,New,GuangZhou,N/A,Clear,2018-01-25,2018-02-22,28,detail
+173,lily,B1,New,BeiJing,CS,Clear,2018-01-25,2018-02-23,29,detail
+174,qv,B2,New,ShangHai,N/A,Pending,2018-01-26,0000-00-00,383,detail
+175,AA007K4XT2,J1,New,ShangHai,N/A,Clear,2018-01-26,2018-02-22,27,detail
+176,wjybaby,B2,New,ShangHai,N/A,Pending,2018-01-26,0000-00-00,383,detail
+177,Rw3,H1,New,ShenYang,Biochemistry,Clear,2018-01-26,2018-02-22,27,detail
+178,sj,B1,Renewal,ShangHai,pharmacy,Clear,2018-01-26,2018-02-23,28,detail
+179,enderone,H1,New,ChengDu,CS,Clear,2018-01-29,2018-02-23,25,detail
+180,Samy,H1,Renewal,GuangZhou,ME,Clear,2018-01-29,2018-02-02,4,detail
+181,umn,F1,Renewal,ChengDu,EE,Clear,2018-01-29,2018-02-12,14,detail
+182,jinal,H4,New,BeiJing,N/A,Clear,2018-01-29,2018-02-02,4,detail
+183,womeishi,H1,Renewal,BeiJing,EE,Clear,2018-01-29,2018-02-02,4,detail
+184,cyy,J2,New,GuangZhou,N/A,Clear,2018-01-29,2018-02-09,11,detail
+185,MengMeng,F1,Renewal,ShangHai,Pharmaceutical Chemistry,Clear,2018-01-29,2018-02-27,29,detail
+186,cripsion,B2,New,ChengDu,CS,Clear,2018-01-29,2018-03-06,36,detail
+187,pp_mac,F1,Renewal,ShenYang,ECE,Clear,2018-01-29,2018-02-22,24,detail
+188,llgyt,H1,New,BeiJing,CS,Clear,2018-01-29,2018-02-22,24,detail
+189,hhhh,F1,Renewal,ShangHai,CS,Pending,2018-01-29,0000-00-00,380,detail
+190,Lee,F1,Renewal,BeiJing,Mechanical Engineering,Clear,2018-01-29,2018-02-22,24,detail
+191,DD,J1,New,BeiJing,ME,Clear,2018-01-29,2018-02-22,24,detail
+192,sliu0128,F1,Renewal,BeiJing,Chemical Engineering,Clear,2018-01-29,2018-02-22,24,detail
+193,micky,J1,Renewal,ShangHai,Chemistry,Clear,2018-01-29,2018-02-22,24,detail
+194,cjsparrow7,H1,New,ShangHai,Biology,Clear,2018-01-29,2018-02-26,28,detail
+195,yjliee,J1,New,ChengDu,Material Physics and Chem,Clear,2018-01-29,2018-03-15,45,detail
+196,AA007JZ2YA,B1,New,ChengDu,EE,Clear,2018-01-29,2018-03-06,36,detail
+197,wwq,H1,Renewal,ShenYang,Software Engineer,Clear,2018-01-30,2018-02-06,7,detail
+198,waiting4it,H1,New,ShenYang,CS,Clear,2018-01-30,2018-02-22,23,detail
+199,lee,B1,Renewal,BeiJing,material science,Clear,2018-01-30,2018-02-23,24,detail
+200,shikiY,H1,New,BeiJing,EE,Clear,2018-01-30,2018-03-05,34,detail
+201,SupermanBack,B1,New,ShangHai,CS,Clear,2018-01-30,2018-03-05,34,detail
+202,AALUCK,L1,New,BeiJing,N/A,Pending,2018-01-30,0000-00-00,379,detail
+203,Feier,H1,Renewal,ShangHai,Biochem,Clear,2018-01-30,2018-03-05,34,detail
+204,Visacheck,F1,Renewal,ShangHai,Materials Science,Clear,2018-01-30,2018-03-02,31,detail
+205,repcheck,F1,Renewal,ShenYang,ECE,Clear,2018-01-30,2018-03-05,34,detail
+206,pcbear,B1,New,ShangHai,Microelectronics,Clear,2018-01-31,2018-03-01,29,detail
+207,rliu8,F1,Renewal,ShangHai,chemistry,Clear,2018-01-31,2018-03-01,29,detail
+208,drofish,F1,Renewal,BeiJing,Microbiology,Clear,2018-01-31,2018-03-05,33,detail
+209,wsliubw,H1,New,ShangHai,Computer Eng,Clear,2018-01-31,2018-03-01,29,detail
+210,boss,B1,Renewal,BeiJing,CS,Pending,2018-01-31,0000-00-00,378,detail
+211,chem,J1,New,BeiJing,Chemistry,Clear,2018-01-31,2018-03-02,30,detail
+212,SOME_ID,H1,Renewal,Vancouver,Chemistry,Clear,2018-01-31,2018-03-05,33,detail
