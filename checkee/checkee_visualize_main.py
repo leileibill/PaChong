@@ -11,16 +11,23 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 app.layout = html.Div([
-    html.H1('Visualization of Checkee Data'),
+    html.H1('US Visa Administrative Processing Statistics Visualization'),
+
+    html.H4('Data is obtained from www.checkee.info'),
+    html.H4('Checks with less than 7 waiting days are not included.'),
+
     dcc.Tabs(id="tabs-example", value='daily', children=[
         dcc.Tab(label='Daily Data', value='daily'),
         dcc.Tab(label='Monthly Data', value='monthly'),
     ]),
-    html.Div(id='tabs-content-example')
+
+    html.Div(id='graph_tabs'),
+
+    html.H4('Designed and maintained by Yutian Lei.')
 ])
 
 
-@app.callback(Output('tabs-content-example', 'children'),
+@app.callback(Output('graph_tabs', 'children'),
               [Input('tabs-example', 'value')])
 def render_content(tab):
     if tab == 'daily':

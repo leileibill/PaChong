@@ -13,6 +13,9 @@ month_average, month_median = load_and_process_month('2019-01')
 
 month_date = [datetime.strptime(date, '%Y-%m-%d') for date in month_date]
 
+# data by clear dates
+date_by_clear_dates, total_by_clear_dates = load_and_process_by_clear_dates()
+
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 # app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
@@ -57,7 +60,7 @@ daily_layout = html.Div([
         }        
     ),
     dcc.Graph(
-        id='duration',
+        id='clear_dates',
         figure={
         'data': [
             go.Bar(
@@ -79,15 +82,15 @@ daily_layout = html.Div([
         figure={
         'data': [
             go.Bar(
-                x=month_date,
-                y=month_average,
-                name='Clear'
+                x=date_by_clear_dates,
+                y=total_by_clear_dates,
+                name='Total'
             ),
         ],
         'layout': go.Layout(
-            title='Number of cleared cases by clear dates (under development)',
-            xaxis={'title': 'Date'},
-            yaxis={'title': 'Waiting days'},
+            title='Number of complete cases by complete dates',
+            xaxis={'title': 'Complete date'},
+            yaxis={'title': 'Number of cases'},
             showlegend=True
         )
         }        

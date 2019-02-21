@@ -33,7 +33,6 @@ def load_and_process_month(month):
                 rows_to_drop.append(index)
 
         df = df.drop(df.index[rows_to_drop]).reset_index(drop=True)
-        df.to_csv('test.csv')
 
         durations = df.loc[:, 'Waiting Day(s)'][::-1]
         status = df.loc[:, 'Status'][::-1]
@@ -83,24 +82,46 @@ def load_and_process_month(month):
                np.array(consolidated_clear), np.array(consolidated_pending), np.array(consolidated_reject), \
                np.array(consolidated_average), np.array(consolidated_median)
 
+## Process data by clear dates
+def load_and_process_by_clear_dates():
 
-# for i, check_date in enumerate(check_dates):
-#     if i == len(check_dates):
-#         break
-#     else:
-#         if same_day[-1] == check_dates[i+1]:
-#             same_day.append(check_dates[i])
-            
+        file_name = 'data/checkee_by_clear_dates' + '.csv'
+        df = pd.read_csv(file_name)
 
+        # remove unqualified 
+        rows_to_drop = []
+        for index, row in df.iterrows():
+            if float(row['Waiting Day(s)']) < 7:
+                rows_to_drop.append(index)
 
-# ratio of cleared cases over total number cases, day by day
+        df = df.drop(df.index[rows_to_drop]).reset_index(drop=True)
 
-# fig, ax = plt.subplots()
+        durations = df.loc[:, 'Waiting Day(s)'][::-1]
+        status = df.loc[:, 'Status'][::-1]
+        check_dates = df.loc[:, 'Check Date'][::-1]
+        complete_dates = df.loc[:, 'Complete Date'][::-1]
 
-# ax.bar(month, np.multiply(ratio, 100))
+        current_day = ''
+        consolidated_dates = []
+        consolidated_total = []
+        for ii in range(len(complete_dates)):
+            day = complete_dates[ii]
+            if current_day != day:
+                consolidated_dates.append(day)
+                current_day = day
 
-# ax.set(xlabel='Month', ylabel='Percentage that cleared', title='Clear/Total')
-# ax.grid()
+        print(consolidated_dates)
 
-# fig.set_size_inches(16, 9)
-# fig.savefig("checkee_main_page.png", dpi=300)
+        for date in consolidated_dates:
+            matched_index = [i for i, x in (complete_dates == date).iteritems() if x]
+            matched_status = status[matched_index]
+            matched_durations = durations[matched_index]
+
+            total = len(matched_index)
+            # clear = sum(matched_status == 'Clear')
+            # pending = sum(matched_status == 'Pending')
+            # reject = sum(matched_status == 'Reject')
+
+            consolidated_total.append(total)
+
+        return np.array(consolidated_dates), np.array(consolidated_total)
