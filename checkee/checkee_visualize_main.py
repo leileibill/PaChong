@@ -5,6 +5,7 @@ import dash_core_components as dcc
 
 from checkee_visualize_daily import *
 from checkee_visualize_monthly import *
+from checkee_visualize_by_category import *
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
@@ -19,11 +20,12 @@ app.layout = html.Div([
     dcc.Tabs(id="tabs-example", value='daily', children=[
         dcc.Tab(label='Daily Data', value='daily'),
         dcc.Tab(label='Monthly Data', value='monthly'),
+        dcc.Tab(label='Category Data', value='category'),
     ]),
 
     html.Div(id='graph_tabs'),
 
-    html.H4('Designed and maintained by Yutian Lei.')
+    # html.H4('Designed and maintained by Yutian Lei.')
 ])
 
 
@@ -34,6 +36,8 @@ def render_content(tab):
         return daily_layout
     elif tab == 'monthly':
         return monthly_layout
+    elif tab == 'category':
+        return category_layout
 
 
 if __name__ == '__main__':
