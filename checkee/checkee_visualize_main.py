@@ -14,8 +14,8 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 app.layout = html.Div([
     html.H1('US Visa Administrative Processing Statistics Visualization'),
 
-    html.H4('Data is obtained from www.checkee.info'),
-    html.H4('Checks with less than 7 waiting days are not included.'),
+    html.H5('Data is obtained from www.checkee.info'),
+    html.H5('Checks with less than 7 waiting days are not included.'),
 
     dcc.Tabs(id="tabs-example", value='daily', children=[
         dcc.Tab(label='Daily Data', value='daily'),

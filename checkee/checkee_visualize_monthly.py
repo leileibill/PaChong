@@ -4,7 +4,7 @@ import dash_html_components as html
 import pandas as pd
 import numpy as np
 import plotly.graph_objs as go
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # load main table from csv
 file_name = 'data/checkee_main_table.csv'
@@ -22,7 +22,8 @@ ratio = np.divide(clear, total)
 
 duration = np.array(df.loc[1:, 'Ave. Waiting Days for Complete Cases'], dtype=np.float)[::-1]
 
-# external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+current_date = datetime.now()
+five_years_ago = current_date - timedelta(weeks=52*5)
 
 monthly_layout = html.Div([
     dcc.Graph(
@@ -35,7 +36,7 @@ monthly_layout = html.Div([
                 name='Cleared',
                 marker=dict(
                     color='#2ca02c',    # cooked asparagus green
-                )                
+                )
             ),
             go.Bar(
                 x=month,
@@ -43,7 +44,7 @@ monthly_layout = html.Div([
                 name='Pending',
                 marker=dict(
                     color='#1f77b4',    # muted blue
-                )                  
+                )
             ),
             go.Bar(
                 x=month,
@@ -51,11 +52,11 @@ monthly_layout = html.Div([
                 name='Rejected',
                 marker=dict(
                     color='#d62728',    # brick red
-                )                                
-            )                        
+                )
+            )
         ],
         'layout': go.Layout(
-            xaxis={'title': 'Date', 'range': [datetime.strptime('2009-12', '%Y-%m'), datetime.strptime('2019-02', '%Y-%m')]},
+            xaxis={'title': 'Date', 'range': [five_years_ago, current_date]},
             yaxis={'title': 'Number of cases'},
             barmode='stack',
         )
@@ -71,7 +72,7 @@ monthly_layout = html.Div([
             )
         ],
         'layout': go.Layout(
-            xaxis={'title': 'Date', 'range': [datetime.strptime('2009-12', '%Y-%m'), datetime.strptime('2019-02', '%Y-%m')]},
+            xaxis={'title': 'Date', 'range': [five_years_ago, current_date]},
             yaxis={'title': 'Average waiting days', 'range': [0, 60]},
             showlegend=True
         )

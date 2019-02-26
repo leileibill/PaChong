@@ -1,58 +1,87 @@
 ,ID,Visa Type,Visa Entry,US Consulate,Major,Status,Check Date,Complete Date,Waiting Day(s),Details
-0,Ptuckgh,B2,Renewal,BeiJing,CS,Pending,2019-02-01,0000-00-00,20,detail
-1,comDavid,B2,Renewal,BeiJing,N/A,Pending,2019-02-01,0000-00-00,20,detail
-2,wildcat007,H1,New,GuangZhou,EE,Pending,2019-02-01,0000-00-00,20,detail
-3,快过吧,H1,Renewal,BeiJing,EE,Pending,2019-02-01,0000-00-00,20,detail
-4,vancvisa,H1,Renewal,Ottawa,EE,Pending,2019-02-01,0000-00-00,20,detail
-5,Hope,J1,Renewal,GuangZhou,Medicine,Pending,2019-02-01,0000-00-00,20,detail
-6,数据点123,H1,New,BeiJing,CS,Pending,2019-02-01,0000-00-00,20,detail
-7,jingche,H1,Renewal,BeiJing,CS,Pending,2019-02-01,0000-00-00,20,detail
-8,fateacher,H1,New,BeiJing,CS,Pending,2019-02-01,0000-00-00,20,detail
-9,T_T,J1,New,BeiJing,CS,Pending,2019-02-01,0000-00-00,20,detail
+0,Ptuckgh,B2,Renewal,BeiJing,CS,Pending,2019-02-01,0000-00-00,25,detail
+1,comDavid,B2,Renewal,BeiJing,N/A,Pending,2019-02-01,0000-00-00,25,detail
+2,wildcat007,H1,New,GuangZhou,EE,Pending,2019-02-01,0000-00-00,25,detail
+3,快过吧,H1,Renewal,BeiJing,EE,Pending,2019-02-01,0000-00-00,25,detail
+4,vancvisa,H1,Renewal,Ottawa,EE,Pending,2019-02-01,0000-00-00,25,detail
+5,Hope,J1,Renewal,GuangZhou,Medicine,Pending,2019-02-01,0000-00-00,25,detail
+6,数据点123,H1,New,BeiJing,CS,Pending,2019-02-01,0000-00-00,25,detail
+7,jingche,H1,Renewal,BeiJing,CS,Pending,2019-02-01,0000-00-00,25,detail
+8,fateacher,H1,New,BeiJing,CS,Pending,2019-02-01,0000-00-00,25,detail
+9,T_T,J1,New,BeiJing,CS,Pending,2019-02-01,0000-00-00,25,detail
 10,DAHUANG,H1,New,ChengDu,HCI,Clear,2019-02-01,2019-02-19,18,detail
-11,蛋疼五道口,H1,Renewal,BeiJing,CS,Pending,2019-02-01,0000-00-00,20,detail
-12,ClearPlz,H1,Renewal,GuangZhou,CS,Pending,2019-02-01,0000-00-00,20,detail
-13,ioeric,L1,New,Europe,CS,Pending,2019-02-05,0000-00-00,16,detail
-14,DD_DD,B2,Renewal,Europe,CS,Pending,2019-02-06,0000-00-00,15,detail
-15,qqyytt,B1,New,Others,Physics,Pending,2019-02-07,0000-00-00,14,detail
-16,Paaaassss,B1,New,Europe,CS,Pending,2019-02-08,0000-00-00,13,detail
-17,miaomiao,F1,Renewal,BeiJing,Chemistry,Pending,2019-02-08,0000-00-00,13,detail
-18,过,H1,Renewal,BeiJing,engineering,Pending,2019-02-08,0000-00-00,13,detail
-19,ggg,H1,Renewal,BeiJing,EE,Pending,2019-02-11,0000-00-00,10,detail
-20,清影别,F1,Renewal,ChengDu,CS,Pending,2019-02-11,0000-00-00,10,detail
-21,Dandan,H1,New,ShenYang,N/A,Pending,2019-02-11,0000-00-00,10,detail
-22,xyz,H1,New,BeiJing,CS,Pending,2019-02-11,0000-00-00,10,detail
-23,Alicepass花花,H1,Renewal,BeiJing,Statsittics,Pending,2019-02-11,0000-00-00,10,detail
-24,freyagan,B2,New,BeiJing,N/A,Pending,2019-02-11,0000-00-00,10,detail
-25,1335,H1,Renewal,BeiJing,Mathematics,Pending,2019-02-11,0000-00-00,10,detail
-26,xl,H1,New,BeiJing,Statistics,Pending,2019-02-11,0000-00-00,10,detail
-27,0223,H1,New,ShenYang,MathFin,Clear,2019-02-11,2019-02-14,3,detail
-28,dfcmichael,H1,Renewal,ShangHai,Software,Clear,2019-02-11,2019-02-12,1,detail
-29,claire,H1,New,BeiJing,CS,Pending,2019-02-11,0000-00-00,10,detail
-30,jhcnan,B2,New,BeiJing,Pharmacy,Pending,2019-02-11,0000-00-00,10,detail
-31,1123,B1,New,BeiJing,N/A,Pending,2019-02-11,0000-00-00,10,detail
-32,求放过,H1,New,ShangHai,CS,Pending,2019-02-11,0000-00-00,10,detail
-33,Ottawa_stuck,L1,Renewal,Ottawa,N/A,Pending,2019-02-11,0000-00-00,10,detail
-34,ff,H1,New,BeiJing,ChemE,Pending,2019-02-11,0000-00-00,10,detail
-35,guoer,F2,New,ShenYang,electrical engineering,Pending,2019-02-12,0000-00-00,9,detail
-36,frozenwind,F2,New,GuangZhou,N/A,Clear,2019-02-12,2019-02-15,3,detail
-37,fengzisuifeng,B2,New,BeiJing,Aerospace Propulsion Theo,Clear,2019-02-12,2019-02-12,0,detail
-38,yangela123,H1,New,GuangZhou,ECE,Pending,2019-02-12,0000-00-00,9,detail
-39,jlbb,O1,Renewal,ShangHai,architecture,Pending,2019-02-12,0000-00-00,9,detail
-40,AA008OGXQ4,B2,New,BeiJing,N/A,Pending,2019-02-13,0000-00-00,8,detail
-41,谁知道,L1,New,BeiJing,EE,Pending,2019-02-13,0000-00-00,8,detail
-42,Elle,F1,Renewal,ChengDu,CS,Pending,2019-02-13,0000-00-00,8,detail
-43,Prajnabalance,B2,New,ShangHai,Mechanics,Pending,2019-02-13,0000-00-00,8,detail
-44,linao,J1,New,BeiJing,N/A,Pending,2019-02-13,0000-00-00,8,detail
-45,wxcsdhr,H1,New,ShenYang,Civil and Environment Eng,Pending,2019-02-13,0000-00-00,8,detail
-46,ccz_byywt!,H1,New,ShangHai,Business,Pending,2019-02-14,0000-00-00,7,detail
-47,AA008NJI58,B1,New,GuangZhou,N/A,Clear,2019-02-14,2019-02-15,1,detail
-48,求clear,H1,New,Vancouver,N/A,Pending,2019-02-14,0000-00-00,7,detail
-49,要过啊,B1,New,ShangHai,Microelectronics,Pending,2019-02-14,0000-00-00,7,detail
-50,lfray_ly,B1,New,Others,Biostatistics,Pending,2019-02-15,0000-00-00,6,detail
-51,sheila,H1,New,GuangZhou,CS,Clear,2019-02-15,2019-02-19,4,detail
-52,J1 check,J1,New,GuangZhou,FS,Pending,2019-02-15,0000-00-00,6,detail
-53,checkeecici,H1,New,ShangHai,Architecture,Clear,2019-02-19,2019-01-28,-22,detail
-54,渥太华伤心,H1,Renewal,Ottawa,Electrical,Pending,2019-02-19,0000-00-00,2,detail
-55,wayne,B1,Renewal,BeiJing,optics,Pending,2019-02-19,0000-00-00,2,detail
-56,getshitdone,F1,Renewal,BeiJing,Plant Biology,Pending,2019-02-21,0000-00-00,0,detail
+11,蛋疼五道口,H1,Renewal,BeiJing,CS,Pending,2019-02-01,0000-00-00,25,detail
+12,ClearPlz,H1,Renewal,GuangZhou,CS,Pending,2019-02-01,0000-00-00,25,detail
+13,luodong163,J1,New,ChengDu,Plant stress Physiology,Pending,2019-02-01,0000-00-00,25,detail
+14,hehehe,B1,New,BeiJing,CS,Pending,2019-02-01,0000-00-00,25,detail
+15,summer111,O1,New,HongKong,EE,Pending,2019-02-01,0000-00-00,25,detail
+16,ioeric,L1,New,Europe,CS,Pending,2019-02-05,0000-00-00,21,detail
+17,DD_DD,B2,Renewal,Europe,CS,Pending,2019-02-06,0000-00-00,20,detail
+18,qqyytt,B1,New,Others,Physics,Pending,2019-02-07,0000-00-00,19,detail
+19,Paaaassss,B1,New,Europe,CS,Pending,2019-02-08,0000-00-00,18,detail
+20,miaomiao,F1,Renewal,BeiJing,Chemistry,Pending,2019-02-08,0000-00-00,18,detail
+21,过,H1,Renewal,BeiJing,engineering,Pending,2019-02-08,0000-00-00,18,detail
+22,visachongchong,H1,Renewal,Vancouver,CS,Pending,2019-02-08,0000-00-00,18,detail
+23,ggg,H1,Renewal,BeiJing,EE,Pending,2019-02-11,0000-00-00,15,detail
+24,清影别,F1,Renewal,ChengDu,CS,Pending,2019-02-11,0000-00-00,15,detail
+25,Dandan,H1,New,ShenYang,N/A,Pending,2019-02-11,0000-00-00,15,detail
+26,xyz,H1,New,BeiJing,CS,Pending,2019-02-11,0000-00-00,15,detail
+27,Alicepass花花,H1,Renewal,BeiJing,Statsittics,Pending,2019-02-11,0000-00-00,15,detail
+28,freyagan,B2,New,BeiJing,N/A,Pending,2019-02-11,0000-00-00,15,detail
+29,1335,H1,Renewal,BeiJing,Mathematics,Pending,2019-02-11,0000-00-00,15,detail
+30,xl,H1,New,BeiJing,Statistics,Pending,2019-02-11,0000-00-00,15,detail
+31,0223,H1,New,ShenYang,MathFin,Clear,2019-02-11,2019-02-14,3,detail
+32,dfcmichael,H1,Renewal,ShangHai,Software,Clear,2019-02-11,2019-02-12,1,detail
+33,henryxy,J1,New,Others,CS,Pending,2019-02-11,0000-00-00,15,detail
+34,claire,H1,New,BeiJing,CS,Pending,2019-02-11,0000-00-00,15,detail
+35,jhcnan,B2,New,BeiJing,Pharmacy,Pending,2019-02-11,0000-00-00,15,detail
+36,1123,B1,New,BeiJing,N/A,Pending,2019-02-11,0000-00-00,15,detail
+37,求放过,H1,New,ShangHai,CS,Pending,2019-02-11,0000-00-00,15,detail
+38,Ottawa_stuck,L1,Renewal,Ottawa,N/A,Pending,2019-02-11,0000-00-00,15,detail
+39,ff,H1,New,BeiJing,ChemE,Pending,2019-02-11,0000-00-00,15,detail
+40,cici7941,H1,New,BeiJing,Statistics,Pending,2019-02-11,0000-00-00,15,detail
+41,Xazc,H1,Renewal,BeiJing,CS,Pending,2019-02-11,0000-00-00,15,detail
+42,guoer,F2,New,ShenYang,electrical engineering,Pending,2019-02-12,0000-00-00,14,detail
+43,frozenwind,F2,New,GuangZhou,N/A,Clear,2019-02-12,2019-02-15,3,detail
+44,fengzisuifeng,B2,New,BeiJing,Aerospace Propulsion Theo,Clear,2019-02-12,2019-02-12,0,detail
+45,yangela123,H1,New,GuangZhou,ECE,Pending,2019-02-12,0000-00-00,14,detail
+46,jlbb,O1,Renewal,ShangHai,architecture,Pending,2019-02-12,0000-00-00,14,detail
+47,AA008OGXQ4,B2,New,BeiJing,N/A,Pending,2019-02-13,0000-00-00,13,detail
+48,谁知道,L1,New,BeiJing,EE,Pending,2019-02-13,0000-00-00,13,detail
+49,Elle,F1,Renewal,ChengDu,CS,Pending,2019-02-13,0000-00-00,13,detail
+50,Prajnabalance,B2,New,ShangHai,Mechanics,Pending,2019-02-13,0000-00-00,13,detail
+51,linao,J1,New,BeiJing,N/A,Pending,2019-02-13,0000-00-00,13,detail
+52,wxcsdhr,H1,New,ShenYang,Civil and Environment Eng,Pending,2019-02-13,0000-00-00,13,detail
+53,ccz_byywt!,H1,New,ShangHai,Business,Clear,2019-02-14,2019-02-21,7,detail
+54,AA008NJI58,B1,New,GuangZhou,N/A,Clear,2019-02-14,2019-02-15,1,detail
+55,求clear,H1,New,Vancouver,N/A,Pending,2019-02-14,0000-00-00,12,detail
+56,要过啊,B1,New,ShangHai,Microelectronics,Pending,2019-02-14,0000-00-00,12,detail
+57,Chouheao,B1,New,BeiJing,Biology,Pending,2019-02-14,0000-00-00,12,detail
+58,lfray_ly,B1,New,Others,Biostatistics,Pending,2019-02-15,0000-00-00,11,detail
+59,sheila,H1,New,GuangZhou,CS,Clear,2019-02-15,2019-02-19,4,detail
+60,J1 check,J1,New,GuangZhou,FS,Pending,2019-02-15,0000-00-00,11,detail
+61,祈祷祈祷,B2,New,ShenYang,Tourist,Pending,2019-02-15,0000-00-00,11,detail
+62,mmmxxx,B1,New,ShangHai,Medicine,Pending,2019-02-15,0000-00-00,11,detail
+63,渥太华伤心,H1,Renewal,Ottawa,Electrical,Pending,2019-02-19,0000-00-00,7,detail
+64,wayne,B1,Renewal,BeiJing,optics,Pending,2019-02-19,0000-00-00,7,detail
+65,Blue swallow,J1,New,Others,Biology,Pending,2019-02-19,0000-00-00,7,detail
+66,bwahhhhhhh,B2,Renewal,ShangHai,Physics,Pending,2019-02-19,0000-00-00,7,detail
+67,快快快快过,H1,Renewal,ChengDu,Business,Clear,2019-02-19,2019-02-26,7,detail
+68,yuanyuan,H1,New,ShangHai,Physics,Pending,2019-02-19,0000-00-00,7,detail
+69,ychen239,H1,New,ShangHai,Stats,Pending,2019-02-20,0000-00-00,6,detail
+70,mow,F1,Renewal,GuangZhou,ME,Pending,2019-02-20,0000-00-00,6,detail
+71,getshitdone,F1,Renewal,BeiJing,Plant Biology,Pending,2019-02-21,0000-00-00,5,detail
+72,Soybeanny,H1,New,GuangZhou,Mechanical Engineering,Pending,2019-02-21,0000-00-00,5,detail
+73,feihua813,H1,Renewal,Ottawa,Computational Finance,Pending,2019-02-21,0000-00-00,5,detail
+74,DDD,B1,New,BeiJing,Chemistry,Pending,2019-02-21,0000-00-00,5,detail
+75,过儿,B1,New,BeiJing,Telecommunication,Pending,2019-02-21,0000-00-00,5,detail
+76,gaokuaidiana,B2,New,ChengDu,Vehicle Eng.,Clear,2019-02-22,2019-02-25,3,detail
+77,laguo,J1,New,ChengDu,Physics,Pending,2019-02-22,0000-00-00,4,detail
+78,cc5092,B2,New,ShangHai,CS,Pending,2019-02-22,0000-00-00,4,detail
+79,E17518743,B1,New,GuangZhou,N/A,Pending,2019-02-25,0000-00-00,1,detail
+80,s396518178,J1,New,BeiJing,Biomedical Engineering,Pending,2019-02-25,0000-00-00,1,detail
+81,求快过,F1,Renewal,ShangHai,Pharmacology,Pending,2019-02-25,0000-00-00,1,detail
+82,bigwei,B2,New,GuangZhou,polymer,Pending,2019-02-25,0000-00-00,1,detail
+83,cxluck,B1,New,ChengDu,Communication Engineering,Pending,2019-02-26,0000-00-00,0,detail
+84,serene9367,F1,Renewal,ShangHai,Computer Engineering,Pending,2019-02-26,0000-00-00,0,detail
+85,yeahhhhh,B2,New,BeiJing,Nuclear science and techn,Pending,2019-02-26,0000-00-00,0,detail

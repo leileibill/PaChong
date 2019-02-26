@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
-# import matplotlib.pyplot as plt
-
+from datetime import datetime, timedelta
 
 def load_main_table_data():
     # load main table from csv
@@ -95,6 +94,11 @@ def load_and_process_by_clear_dates():
     df = df.drop(df.index[df['Waiting Day(s)'] < 8]).reset_index(drop=True)
 
     complete_dates = df.loc[:, 'Complete Date']
+    waiting_days = df.loc[:, 'Waiting Day(s)']
+
+    cut_off_date = datetime.strftime(datetime.now() - timedelta(weeks=1), '%Y-%m-%d')
+    print('Distribution cut off date: ' + cut_off_date)
+    waiting_days = df.loc[df['Complete Date'] > cut_off_date].loc[:, 'Waiting Day(s)']
 
     consolidated_dates = complete_dates.unique()
 
@@ -104,7 +108,7 @@ def load_and_process_by_clear_dates():
     for i, date in enumerate(consolidated_dates):
         consolidated_total[i] = len(complete_dates.index[complete_dates == date])
 
-    return np.array(consolidated_dates), np.array(consolidated_total)
+    return np.array(consolidated_dates), np.array(consolidated_total), waiting_days
 
 ## Process data by clear dates
 def load_and_process_by_category():
