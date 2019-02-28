@@ -6,6 +6,7 @@ import dash_core_components as dcc
 from checkee_visualize_daily import *
 from checkee_visualize_monthly import *
 from checkee_visualize_by_category import *
+from checkee_scrape import *
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
@@ -41,5 +42,8 @@ def render_content(tab):
 
 
 if __name__ == '__main__':
+
+    scrape_everything()
+
     app.run_server(debug=True)
     # app.run_server(debug=False, host='0.0.0.0', port=8050)

@@ -100,21 +100,24 @@ def scrape_by_clear_dates(url, save_name):
     df = pd.DataFrame(data=data[1:,1:], index=None, columns=data[0, 1:])
     df.to_csv(save_name)
 
-base_url = "https://www.checkee.info/"
+def scrape_everything():
+    base_url = "https://www.checkee.info/"
 
-url_set = scrape_main_page(base_url)
+    # scrape main page
+    url_set = scrape_main_page(base_url)
 
-scrape_sub_page.count = 5
-for url in url_set:
-    save_name = 'data/checkee_' + url.split('=')[-1] + '.csv'
-    scrape_sub_page(base_url + url, save_name)
+    # scrape sub page
+    scrape_sub_page.count = 5
+    for url in url_set:
+        save_name = 'data/checkee_' + url.split('=')[-1] + '.csv'
+        scrape_sub_page(base_url + url, save_name)
 
-# # scrape by clear dates
-# current_date = datetime.now()
-# three_months_ago = current_date - timedelta(days=90)
-# three_months_ago_str = datetime.strftime(three_months_ago, '%Y-%m-%d')
+    # scrape by clear dates
+    current_date = datetime.now()
+    three_months_ago = current_date - timedelta(days=90)
+    three_months_ago_str = datetime.strftime(three_months_ago, '%Y-%m-%d')
 
-# url = base_url + 'main.php?sortby=clear_date&dispdate=' + three_months_ago_str
-# print(url)
-# save_name = 'data/checkee_by_clear_dates.csv'
-# scrape_by_clear_dates(url, save_name)
+    url = base_url + 'main.php?sortby=clear_date&dispdate=' + three_months_ago_str
+    print(url)
+    save_name = 'data/checkee_by_clear_dates.csv'
+    scrape_by_clear_dates(url, save_name)

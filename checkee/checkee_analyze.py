@@ -96,7 +96,7 @@ def load_and_process_by_clear_dates():
     complete_dates = df.loc[:, 'Complete Date']
     waiting_days = df.loc[:, 'Waiting Day(s)']
 
-    cut_off_date = datetime.strftime(datetime.now() - timedelta(weeks=1), '%Y-%m-%d')
+    cut_off_date = datetime.strftime(datetime.now() - timedelta(weeks=4), '%Y-%m-%d')
     print('Distribution cut off date: ' + cut_off_date)
     waiting_days = df.loc[df['Complete Date'] > cut_off_date].loc[:, 'Waiting Day(s)']
 
