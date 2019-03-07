@@ -8,6 +8,8 @@ from checkee_visualize_monthly import *
 from checkee_visualize_by_category import *
 from checkee_scrape import *
 
+import sys
+
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
@@ -43,7 +45,9 @@ def render_content(tab):
 
 if __name__ == '__main__':
 
-    scrape_everything()
+    print(len(sys.argv))
+    # if(sys.argv[0] != 0):
+        # scrape_everything()
 
-    app.run_server(debug=True)
+    app.run_server(debug=False)
     # app.run_server(debug=False, host='0.0.0.0', port=8050)

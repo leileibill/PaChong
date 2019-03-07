@@ -22,9 +22,17 @@ def load_main_table_data():
 
 ## Process monthly data
 def load_and_process_month(month):
-    # month = '2019-01'
-    file_name = 'data/checkee_' + month + '.csv'
-    df = pd.read_csv(file_name)
+
+    df1 = pd.read_csv('data/checkee_2019-03.csv')
+    df2 = pd.read_csv('data/checkee_2019-02.csv')
+    df3 = pd.read_csv('data/checkee_2019-01.csv')
+    frames = [df1, df2, df3]
+
+    df = pd.concat(frames, axis=0, join='outer', ignore_index=True, copy=True)
+
+    # # month = '2019-01'
+    # file_name = 'data/checkee_' + month + '.csv'
+    # df = pd.read_csv(file_name)
 
     # remove rows with waiting days fewer than 8
     df = df.drop(df.index[df['Waiting Day(s)'] < 8]).reset_index(drop=True)

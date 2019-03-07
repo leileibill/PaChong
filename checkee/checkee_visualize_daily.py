@@ -14,6 +14,7 @@ month_average, month_median = load_and_process_month('2019-01')
 month_date = [datetime.strptime(date, '%Y-%m-%d') for date in month_date]
 
 current_date = datetime.now()
+two_weeks_ago = current_date - timedelta(weeks=2)
 two_months_ago = current_date - timedelta(weeks=8)
 
 # data by clear dates
@@ -49,7 +50,7 @@ daily_layout = html.Div([
         ],
         'layout': go.Layout(
             title='Case status by check dates',
-            xaxis={'title': 'Date'},
+            xaxis={'title': 'Date', 'range': [two_months_ago, two_weeks_ago]},
             yaxis={'title': 'Number of cases'},
             barmode='stack',
             # hovermode='closest'
